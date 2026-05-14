@@ -27,7 +27,7 @@ function limparTela() {
 // HEADER bonito
 function header() {
   console.log("=====================================");
-  console.log("        🛍️ LOJA DO HEITORZERA");
+  console.log("        🛍️ LOJA DO IVANZADA");
   console.log("=====================================\n");
 }
 
